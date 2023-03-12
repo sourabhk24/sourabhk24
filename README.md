@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sourabhk24
 - 👀 I’m interested in AI and Data Science also app development.
-- 🌱 I’m currently learning Data Science , Artificial Intelligence and app development.
-- 💞️ I’m looking to collaborate on App development
+- 🌱 I’m currently learning Data Science , Artificial Intelligence .
+- can work on python , sql , pylibraries.
 - 📫 How to reach me sourabh.kapse02@gmail.com 
 
 <!---
