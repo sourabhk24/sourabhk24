@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sourabhk24
 - 👀 I’m interested in Data Science , Artificial Intelligence, Data analytics,machine learning, Data Engineering.
-- 🌱 I’m currently Pursuing  Artificial Intelligence and Data Science.
-- can work on python , sql , pylibraries.
+- 🌱 Artificial Intelligence and Data Science Student.
+- can work on python , sql , pylibraries, Visualization tools.
 - 📫 How to reach me sourabh.kapse02@gmail.com 
 
 <!---
